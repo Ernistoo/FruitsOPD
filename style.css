@@ -1,0 +1,20 @@
+body {
+    background-color: #b65cea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+ul {
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
